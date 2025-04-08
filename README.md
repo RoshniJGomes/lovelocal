@@ -1,9 +1,4 @@
-|Name : Roshni Jenica Gomes|
---------------------------
-|College : St. Joseph Engineering College|
----------------------------------------
-|email:  roshnigomes20@gmail.com|
--------------------------------------
+
 
 
 code1:Easy
